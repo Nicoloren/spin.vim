@@ -15,7 +15,7 @@ If your spintax files don't end with *.spin* you must change this line.
 
 # Thanks
 
-This project has been influenced by RainbowBracket.vim
+This project has been influenced by https://github.com/kien/rainbow_parentheses.vim
 
 http://vim.wikia.com/wiki/Creating_your_own_syntax_files
 
